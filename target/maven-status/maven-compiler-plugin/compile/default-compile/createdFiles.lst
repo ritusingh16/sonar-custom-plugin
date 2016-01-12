@@ -1,0 +1,7 @@
+org\sonar\samples\java\checks\AvoidHardCodedStringRule.class
+org\sonar\samples\java\SubscriptionBaseVisitor.class
+org\sonar\samples\java\MyJavaRulesPlugin.class
+org\sonar\samples\java\checks\PrinterVisitor.class
+org\sonar\samples\java\RulesList.class
+org\sonar\samples\java\MyJavaRulesDefinition.class
+org\sonar\samples\java\MyJavaFileCheckRegistrar.class
